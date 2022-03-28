@@ -7,10 +7,9 @@
  <li>React</li>
  <li>Typescript</li>
 </ul>
-# Getting Started with Create React App
 
 
-## Available Scripts
+## How to run
 
 In the project directory, you can run:
 
